@@ -1,0 +1,11 @@
+* for numpy package
+  if using vsc (i do ) then pip install numpy
+  or linux then python -m venv venv
+
+* for curse package
+  same thing vsc then pip install window-curses
+  or linux then it a standard lib so no need to install
+
+
+  *how i run my code
+  py labwork3.py
