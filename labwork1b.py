@@ -72,7 +72,7 @@ def show_marks():
     else:
         print("No marks available for this course yet.")
 
-# ============ MAIN ============
+#MAIN 
 
 print("=== Student Mark Management ===")
 
